@@ -1,0 +1,16 @@
+#!/bin/bash
+mv/tmp/betty/tmp/my_first_directory/betty >> 7-movethatfile
+
+
+
+
+
+echo mv/tmp/betty/tmp/my_first_directory/betty
+mv/tmp/betty/tmp/my_first_directory/betty >> 7-movethatfile
+
+
+
+
+
+echo mv/tmp/betty/tmp/my_first_directory/betty
+mv/tmp/betty/tmp/my_first_directory/betty
