@@ -25,7 +25,7 @@ return (0);
 
 /**
 * main - Creates five zombie processes.
-* 
+*
 * Return: Always 0.
 */
 int main(void)
